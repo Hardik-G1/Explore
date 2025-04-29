@@ -1,6 +1,6 @@
 # Exploration Log 🗺️✨
 
-[![APK Available](https://img.shields.io/badge/Download-APK%20Available-brightgreen.svg)](Explore.apk) ![iOS Status](https://img.shields.io/badge/iOS-Coming%20Soon-orange.svg)
+[![APK Available](https://img.shields.io/badge/Download-APK%20Available-brightgreen.svg)](releases/Explore.apk) ![iOS Status](https://img.shields.io/badge/iOS-Coming%20Soon-orange.svg)
 
 Turn your everyday movements into an adventure! Exploration Log tracks your journeys, revealing a map of your world as you explore it, piece by piece. Gamify your discoveries and keep a log of where you've been.
 
@@ -36,27 +36,49 @@ Turn your everyday movements into an adventure! Exploration Log tracks your jour
 Here's a glimpse of Exploration Log in action:
 
 **1. Exploration Log Calendar (Daily View)**
-![Calendar showing April 2025 with specific dates highlighted](Exploration_log_single_date.jpg)
+<br>
+<img src="images/Exploration_log_single_date.jpg" alt="Calendar showing April 2025 with specific dates highlighted" width="300">
+<br>
 *Caption: View your exploration activity for a specific day.*
 
+---
+
 **2. Exploration Log Calendar (Range View)**
-![Calendar showing a date range selected](Exploration_log_date_range.jpg)
+<br>
+<img src="images/Exploration_log_date_range.jpg" alt="Calendar showing a date range selected" width="300">
+<br>
 *Caption: Filter your exploration log by a custom date range.*
 
+---
+
 **3. Main Map View (Exploring)**
-![Map view with a blue circle indicating current location and surrounding revealed area](Location_without_recording.jpg)
+<br>
+<img src="images/Location_without_recording.jpg" alt="Map view with a blue circle indicating current location and surrounding revealed area" width="300">
+<br>
 *Caption: Real-time tracking reveals the map as you move.*
 
+---
+
 **4. Map View (More Exploration)**
-![Map view showing a larger revealed area](Exploration_log_today.jpg)
+<br>
+<img src="images/Exploration_log_today.jpg" alt="Map view showing a larger revealed area" width="300">
+<br>
 *Caption: Uncover more of the map the further you explore.*
 
+---
+
 **5. Tile Transparency Control**
-![Popup showing the Tile Transparency slider set to 15%](Map_transparency_set.jpg)
+<br>
+<img src="images/Map_transparency_set.jpg" alt="Popup showing the Tile Transparency slider set to 15%" width="300">
+<br>
 *Caption: Adjust the opacity of explored map tiles.*
 
+---
+
 **6. Coin Balance**
-![App header showing the coin balance (e.g., 3 coins)](Location_recording_started.jpg)
+<br>
+<img src="images/Location_recording_started.jpg" alt="App header showing the coin balance (e.g., 3 coins)" width="300">
+<br>
 *Caption: Track your earned exploration coins.*
 
 ---
@@ -64,9 +86,10 @@ Here's a glimpse of Exploration Log in action:
 ## Getting Started
 
 *   **Android:** Download the latest `.apk` file from the link below and install it on your device.
-    *   [**Download APK**](Explore.apk)
+    *   [**Download APK**](releases/Explore.apk)
 *   **iOS:** An iOS version is planned and currently under development. Stay tuned for updates!
 
+---
 ---
 
 ## Get in Touch 💬
